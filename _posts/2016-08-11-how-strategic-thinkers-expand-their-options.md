@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T07:01:20.220Z'
-dateModified: '2016-08-11T07:00:37.680Z'
+datePublished: '2016-08-11T07:02:30.004Z'
+dateModified: '2016-08-11T07:01:23.830Z'
 title: How strategic thinkers expand their options
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-how-strategic-thinkers-expand-their-options.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-how-strategic-thinkers-expand-their-options.md
 url: how-strategic-thinkers-expand-their-options/index.html
 _type: Article
 
