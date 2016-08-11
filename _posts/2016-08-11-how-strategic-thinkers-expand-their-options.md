@@ -8,8 +8,8 @@ description: >-
   Increasing the number of options when taking a decision is proven to improve
   the success rate. Managers can expand their options and make better strategic
   decisions by using three innovative techniques.
-datePublished: '2016-08-11T07:11:36.105Z'
-dateModified: '2016-08-11T07:09:28.647Z'
+datePublished: '2016-08-11T07:32:40.035Z'
+dateModified: '2016-08-11T07:11:45.548Z'
 title: How strategic thinkers expand their options
 author:
   - name: ''
