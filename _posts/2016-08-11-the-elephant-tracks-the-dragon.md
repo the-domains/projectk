@@ -5,21 +5,21 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  India's e-retail revolution is radically transforming the way consumers
+  India'se-retail revolution is radically transforming the way consumers
   interact with brands, evaluate their offerings and purchase their products,
   with major implications for consumer and retail businesses. This in-depth
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T06:35:08.564Z'
-dateModified: '2016-08-11T06:34:06.200Z'
+datePublished: '2016-08-11T06:35:45.954Z'
+dateModified: '2016-08-11T06:35:38.851Z'
 title: The Elephant tracks the dragon
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-the-elephant-tracks-the-dragon.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-the-elephant-tracks-the-dragon.md
 url: the-elephant-tracks-the-dragon/index.html
 _type: Article
 
