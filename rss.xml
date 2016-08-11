@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ProjectK]]></title>
+        <description><![CDATA[ProjectK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 02:47:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Being CEO 3.0]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e7e5a6-fe5c-45ee-8080-d1e1cc194fd9.jpg">]]></description>
+            <link>undefinedbeing-ceo-30/index.html</link>
+            <guid isPermaLink="false">888ed8dd-f758-4a15-b283-f3d5e3ef34a0</guid>
+            <pubDate>Thu, 11 Aug 2016 02:47:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
