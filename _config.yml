@@ -1,6 +1,6 @@
 name: ProjectK
 favicon: null
-layout_spectrum: 0.7583
+layout_spectrum: 0.88351
 typography_spectrum: 0.7417
 title: Kanvic
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4375
+  brandStrength: 0.5
   lightness: 0.9060083590447903
   saturation: 0.4375
   rhythmicContrast: 0.9522393483202904
