@@ -4,11 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-11T07:07:06.897Z'
-dateModified: '2016-08-11T07:07:06.615Z'
+description: >-
+  Increasing the number of options when taking a decision is proven to improve
+  the success rate. Managers can expand their options and make better strategic
+  decisions by using three innovative techniques.
+datePublished: '2016-08-11T07:11:36.105Z'
+dateModified: '2016-08-11T07:09:28.647Z'
 title: How strategic thinkers expand their options
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-11-how-strategic-thinkers-expand-their-options.md
 authors: []
@@ -21,7 +26,7 @@ _type: Article
 # How strategic thinkers expand their options
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg)
 
-## Increasing the number of options when taking a decision is proven to improve the success rate. Managers can expand their options and make better strategic decisions by using three innovative techniques.
+_Increasing the number of options when taking a decision is proven to improve the success rate. Managers can expand their options and make better strategic decisions by using three innovative techniques._
 
 Managers are trained to look at all the available options before making a final decision for a number of important reasons. Firstly, multiple options allow decision makers to compare, helping them to see both the upside potential and the downside risk of each option. Secondly, managers can combine the best features of the available options to develop a hybrid option, improving the overall quality of the decision. Finally, more options increase the strategic degree of freedom, providing room for manoeuvrability in the face of changing real world events.
 
