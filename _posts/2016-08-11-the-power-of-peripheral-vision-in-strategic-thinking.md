@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T07:15:58.526Z'
-dateModified: '2016-08-11T07:15:37.017Z'
+datePublished: '2016-08-11T07:20:02.448Z'
+dateModified: '2016-08-11T07:19:59.546Z'
 title: The power of peripheral vision in strategic thinking
 author: []
 via: {}
 sourcePath: _posts/2016-08-11-the-power-of-peripheral-vision-in-strategic-thinking.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-power-of-peripheral-vision-in-strategic-thinking/index.html
 _type: Article
