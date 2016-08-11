@@ -11,8 +11,8 @@ description: >-
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T06:54:03.184Z'
-dateModified: '2016-08-11T06:52:39.678Z'
+datePublished: '2016-08-11T06:54:53.920Z'
+dateModified: '2016-08-11T06:54:13.295Z'
 title: The Elephant tracks the dragon
 author: []
 via: {}
@@ -83,7 +83,7 @@ Interestingly, both India and China appear to be on the same regression line, in
 
 India is not only following the path of China on the demand side. Our research shows that there are also major similarities on the supply side that will shape India's future retail landscape, with important implications for those developing strategy. Most important among these will be the continued dominance of marketplaces, the increasing role of partnerships and the move to Online to Offline integration.
 
-## Marketplaces will continue to dominate
+**Marketplaces will continue to dominate**
 
 Firstly, in both China and India the marketplace model dominates e-retail. In China, around 90% of online sales go through marketplaces; and the scenario is comparable in India, where players like Flipkart (which is increasingly moving towards a pure marketplace model), Snapdeal and Amazon are capturing the lion's share. By contrast, the situation in the USA is completely the opposite. There, marketplaces generate only 20% to 25% of online sales; the rest being realised by inventory led online players and brick and mortar retailers who have built their own e-retail presence.
 
@@ -94,7 +94,7 @@ The second important similarity between India and China is the way in which the 
 
 In both countries, marketplaces started by competing through price to attract visitors, and in the process they burnt large amounts of cash to sustain their discount policies and build their logistics networks. In China, this pressure led to a shakeout phase during which smaller e-retailers started to exit the market or ended up being acquired by larger players. The wave of acquisitions in e-retail started around 2010 in China and peaked in 2012 when seven major acquisitions took place. These consolidation moves were necessary to remain competitive in an increasingly concentrated market, where two dominant players - Tmall and JD.com - are ruling over almost 80% of the B2C segment. We are starting to see a similar movement in the Indian market with players like Flipkart and Snapdeal announcing ambitious growth targets and acquiring category specific players like Myntra and Exclusively.in.
 
-## Partnerships will play a greater role
+**Partnerships will play a greater role**
 
 If Indian e-retail continues to follow in China's footsteps in terms of market concentration, we can expect to see another key trend emerging. As marketplaces become increasingly dominant, other retailers and brand owners will have to see them not as a threat but as potential partners.
 
@@ -102,7 +102,7 @@ Today, most Indian brick and mortar retailers and consumer brands are wary of se
 
 For example, pure online retailers like ASOS, and brick and mortar players such as Uniqlo, have been working closely with the leading marketplace Tmall to build their own flagship stores on its platform. Similarly, global FMCG brands like L'Oreal and P&G have followed suit by creating their own Tmall shops. It is likely that such developments will become common in India too, as marketplaces continue to build their customer base and develop pan India delivery capabilities.
 
-## Online to offline (O2O) integration will be key
+**Online to offline (O2O) integration will be key**
 
 The rise of marketplaces does not signify that other retail formats - whether online or offline - will become obsolete in India. On the contrary, the market will probably develop around the concepts of omni-channel and online-to-offline integration (020), just like it has in China. There, more than 60% of the top 100 brick and mortar retailers have built an online presence through both their own platforms and through marketplaces. Their strategy is to become ubiquitous, making their products available in multiple retail channels, to follow consumers through their entire purchasing journey.
 
