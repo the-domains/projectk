@@ -11,8 +11,8 @@ description: >-
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T06:39:47.413Z'
-dateModified: '2016-08-11T06:39:24.670Z'
+datePublished: '2016-08-11T06:51:08.405Z'
+dateModified: '2016-08-11T06:50:41.970Z'
 title: The Elephant tracks the dragon
 author: []
 via: {}
@@ -49,7 +49,7 @@ In this context, CEOs looking at India are asking a number of questions about th
 
 To find answers to these pressing questions, we conducted an in-depth study of how e-retail has developed across the globe to draw insights about the future prospects for Indian e-retail. We examined the experiences of key developed markets like the UK and the USA, as well as China. As our findings increasingly indicated that China had the most compelling similarities with the Indian scenario, our focus gravitated to that market and the insights it offered.
 
-**1\. ****What stage of development has e-retail reached in India?**
+## **What s****tage of development has e-retail reached in India?**
 
 The first major insight from our analysis was that India has reached an inflexion point, marking the start of a much faster phase of growth in online retail. Like most disruptive business models, wherever e-retail has emerged around the world it has developed in three successive phases:
 
@@ -66,7 +66,7 @@ A similar growth story happened in China, albeit at a more rapid pace. There, th
 
 By analysing such trends in e-retail penetration in India, it becomes evident that the market there reached its inflexion point around 2012\. From 2012 to 2014, after 5 years of incubation, Indian e-retail registered a phenomenal CAGR of 80%. This is a step-change compared to the relatively slower rate of 38% witnessed from 2007 to 2012\. Today, e-retail in India accounts for almost 1% of total retail value, and with the huge size of the overall market, many are wondering how fast e-retail can expand in the next stage of development.
 
-**How fast will e-retail penetration increase in India?**
+## **How fast will e-retail penetration increase in India?**
 
 There are compelling reasons to believe that Indian e-retail will boom with as much force as it has in China. Indeed, our analysis shows that India shares a number of fundamental characteristics with China that favour the rapid rise of e-retail.
 
@@ -79,11 +79,11 @@ The third shared characteristic between both countries is that it is smartphone 
 
 Interestingly, both India and China appear to be on the same regression line, indicating that they are following a very similar growth trajectory, with mobile Internet driving the development of the e-retail market. Thanks to its larger and faster growing population of mobile internet users, China has so far registered stronger growth in e-retail than India. By projecting historical data, we can estimate that India is approximately 5 years behind China in terms of mobile Internet penetration. However, the country could very likely rise faster than expected, as every day a large number of Indian consumers are getting online through acquiring smartphones. At the same time, moves from telecom companies coupled with the new government's Digital India programme could help India make a leap in connectivity, securing reliable Internet access for yet more consumers across country.
 
-**What will India's future retail landscape look like?**
+## **What will India's future retail landscape look like?**
 
 India is not only following the path of China on the demand side. Our research shows that there are also major similarities on the supply side that will shape India's future retail landscape, with important implications for those developing strategy. Most important among these will be the continued dominance of marketplaces, the increasing role of partnerships and the move to Online to Offline integration.
 
-**Marketplaces will continue to dominate**
+## Marketplaces will continue to dominate
 
 Firstly, in both China and India the marketplace model dominates e-retail. In China, around 90% of online sales go through marketplaces; and the scenario is comparable in India, where players like Flipkart (which is increasingly moving towards a pure marketplace model), Snapdeal and Amazon are capturing the lion's share. By contrast, the situation in the USA is completely the opposite. There, marketplaces generate only 20% to 25% of online sales; the rest being realised by inventory led online players and brick and mortar retailers who have built their own e-retail presence.
 
@@ -94,7 +94,7 @@ The second important similarity between India and China is the way in which the 
 
 In both countries, marketplaces started by competing through price to attract visitors, and in the process they burnt large amounts of cash to sustain their discount policies and build their logistics networks. In China, this pressure led to a shakeout phase during which smaller e-retailers started to exit the market or ended up being acquired by larger players. The wave of acquisitions in e-retail started around 2010 in China and peaked in 2012 when seven major acquisitions took place. These consolidation moves were necessary to remain competitive in an increasingly concentrated market, where two dominant players - Tmall and JD.com - are ruling over almost 80% of the B2C segment. We are starting to see a similar movement in the Indian market with players like Flipkart and Snapdeal announcing ambitious growth targets and acquiring category specific players like Myntra and Exclusively.in.
 
-**Partnerships will play a greater role**
+## Partnerships will play a greater role
 
 If Indian e-retail continues to follow in China's footsteps in terms of market concentration, we can expect to see another key trend emerging. As marketplaces become increasingly dominant, other retailers and brand owners will have to see them not as a threat but as potential partners.
 
@@ -102,7 +102,7 @@ Today, most Indian brick and mortar retailers and consumer brands are wary of se
 
 For example, pure online retailers like ASOS, and brick and mortar players such as Uniqlo, have been working closely with the leading marketplace Tmall to build their own flagship stores on its platform. Similarly, global FMCG brands like L'Oreal and P&G have followed suit by creating their own Tmall shops. It is likely that such developments will become common in India too, as marketplaces continue to build their customer base and develop pan India delivery capabilities.
 
-**Online to offline (O2O) integration will be key**
+## Online to offline (O2O) integration will be key
 
 The rise of marketplaces does not signify that other retail formats - whether online or offline - will become obsolete in India. On the contrary, the market will probably develop around the concepts of omni-channel and online-to-offline integration (020), just like it has in China. There, more than 60% of the top 100 brick and mortar retailers have built an online presence through both their own platforms and through marketplaces. Their strategy is to become ubiquitous, making their products available in multiple retail channels, to follow consumers through their entire purchasing journey.
 
