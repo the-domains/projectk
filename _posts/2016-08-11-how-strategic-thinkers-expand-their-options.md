@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T07:04:32.182Z'
-dateModified: '2016-08-11T07:03:57.579Z'
+datePublished: '2016-08-11T07:07:06.897Z'
+dateModified: '2016-08-11T07:07:06.615Z'
 title: How strategic thinkers expand their options
 author: []
 via: {}
