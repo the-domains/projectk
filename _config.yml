@@ -1,0 +1,28 @@
+name: ProjectK
+favicon: null
+layout_spectrum: 0.7701274089049548
+typography_spectrum: 0.5521014586556703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.45778011064976454
+  lightness: 0.9060083590447903
+  saturation: 0.41157904895953834
+  rhythmicContrast: 0.9522393483202904
+purpose: []
