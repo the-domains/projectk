@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  India'se-retail revolution is radically transforming the way consumers
+  India's e-retail revolution is radically transforming the way consumers
   interact with brands, evaluate their offerings and purchase their products,
   with major implications for consumer and retail businesses. This in-depth
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T07:07:49.568Z'
-dateModified: '2016-08-11T07:07:40.633Z'
+datePublished: '2016-08-11T07:10:52.812Z'
+dateModified: '2016-08-11T07:10:37.009Z'
 title: The Elephant tracks the dragon
 author: []
 via: {}
@@ -29,7 +29,7 @@ _type: Article
 ## Charting the future of e-retail in India
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/277544f7-fb47-45bb-a58d-d61c9cecdae6.jpg)
 
-_India's__e-retail revolution is radically transforming the way consumers interact with brands, evaluate their offerings and purchase their products, with major implications for consumer and retail businesses. This in-depth study of the evolution of e-retail globally finds that China is the most appropriate benchmark for CEOs looking to anticipate future changes in Indian e-retail._
+_India's __e-retail revolution is radically transforming the way consumers interact with brands, evaluate their offerings and purchase their products, with major implications for consumer and retail businesses. This in-depth study of the evolution of e-retail globally finds that China is the most appropriate benchmark for CEOs looking to anticipate future changes in Indian e-retail._
 
 Forecast to grow faster than China in the coming years, India is rapidly rising up the agenda of global CEOs. However, those approaching this important market must pay close attention to the boom currently underway in Indian e-retail and its profound implications for strategy development. Our in-depth analysis has discovered that those searching for insights into the future of Indian retail should look East rather than West, due to its striking similarities with China in both supply and demand dynamics.
 
