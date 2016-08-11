@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T07:13:10.176Z'
-dateModified: '2016-08-11T07:13:06.286Z'
+datePublished: '2016-08-11T07:13:35.688Z'
+dateModified: '2016-08-11T07:13:30.134Z'
 title: The power of peripheral vision in strategic thinking
 author: []
 via: {}
