@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ProjectK]]></title>
-        <description><![CDATA[ProjectK]]></description>
+        <title><![CDATA[Kanvic]]></title>
+        <description><![CDATA[Kanvic]]></description>
         <link>https://thegrid.ai/projectk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 06:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 06:39:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Being CEO 3.0]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[The Elephant tracks the dragon]]></title>
-            <description><![CDATA[<article><h1>The Elephant tracks the dragon</h1><h2>Charting the future of e-retail in India</h2><p>India'se-retail revolution is radically transforming the way consumers interact with brands, evaluate their offerings and purchase their products, with major implications for consumer and retail businesses. This in-depth study of the evolution of e-retail globally finds that China is the most appropriate benchmark for CEOs looking to anticipate future changes in Indian e-retail.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/277544f7-fb47-45bb-a58d-d61c9cecdae6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Elephant tracks the dragon</h1><p>India'se-retail revolution is radically transforming the way consumers interact with brands, evaluate their offerings and purchase their products, with major implications for consumer and retail businesses. This in-depth study of the evolution of e-retail globally finds that China is the most appropriate benchmark for CEOs looking to anticipate future changes in Indian e-retail.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/277544f7-fb47-45bb-a58d-d61c9cecdae6.jpg"></article>]]></description>
             <link>https://thegrid.ai/projectk/the-elephant-tracks-the-dragon/index.html</link>
             <guid isPermaLink="false">d0a47497-7fdb-41d9-9778-6b83083eae50</guid>
-            <pubDate>Thu, 11 Aug 2016 06:36:35 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 06:39:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
