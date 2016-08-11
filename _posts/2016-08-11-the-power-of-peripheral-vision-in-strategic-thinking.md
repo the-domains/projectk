@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T07:02:37.158Z'
-dateModified: '2016-08-11T06:52:48.283Z'
+datePublished: '2016-08-11T07:08:40.160Z'
+dateModified: '2016-08-11T07:08:35.723Z'
 title: The power of peripheral vision in strategic thinking
 author: []
 via: {}
@@ -23,10 +23,9 @@ _type: Article
 
 ---
 # The power of peripheral vision in strategic thinking
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b8e282c-85a2-434c-9ab2-679b4f2aa876.jpg)
 
-## Peripheral vision is the ability to detect market trends and weak signals beyond the current boundaries. In a rapidly changing business environment it becomes a critical asset for strategic thinkers.
+_Peripheral vision is the ability to detect market trends and weak signals beyond the current boundaries. In a rapidly changing business environment it becomes a critical asset for strategic thinkers._
 
 For the human eye, peripheral vision is the ability to see objects and movement outside of the direct line of vision. It is made possible by rods and nerve cells located largely outside the centre of the retina. The rods also create night vision and low-light vision. A loss of peripheral vision leads to a condition commonly referred to as "tunnel vision".
 
