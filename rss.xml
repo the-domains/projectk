@@ -4,7 +4,7 @@
         <description><![CDATA[Kanvic]]></description>
         <link>https://thegrid.ai/projectk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 06:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 07:01:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Elephant tracks the dragon]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/projectk/being-ceo-30/index.html</link>
             <guid isPermaLink="false">888ed8dd-f758-4a15-b283-f3d5e3ef34a0</guid>
             <pubDate>Thu, 11 Aug 2016 06:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How strategic thinkers expand their options]]></title>
+            <description><![CDATA[<article><h1>How strategic thinkers expand their options</h1><h2>Increasing the number of options when taking a decision is proven to improve the success rate. Managers can expand their options and make better strategic decisions by using three innovative techniques.</h2><p></p></article>]]></description>
+            <link>https://thegrid.ai/projectk/how-strategic-thinkers-expand-their-options/index.html</link>
+            <guid isPermaLink="false">66b49f60-a155-44d0-a469-eab742b2377f</guid>
+            <pubDate>Thu, 11 Aug 2016 07:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
