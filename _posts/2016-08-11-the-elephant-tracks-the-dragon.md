@@ -11,17 +11,19 @@ description: >-
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T07:30:56.540Z'
-dateModified: '2016-08-11T07:29:42.946Z'
+datePublished: '2016-08-11T07:31:59.140Z'
+dateModified: '2016-08-11T07:30:59.092Z'
 title: The Elephant tracks the dragon
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-11-the-elephant-tracks-the-dragon.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: true
 url: the-elephant-tracks-the-dragon/index.html
@@ -66,7 +68,7 @@ Acceleration: a longer phase during which the pace of growth increases, turning 
 By analysing the evolution of e-retail in the countries of study, we were able to clearly identify these phases and measure their duration. In the USA and the UK e-retail appeared around 1995, when players like Ebay and Amazon came on the scene with what were then highly innovative business models. Subsequently, online retail witnessed rather slow development in the first five years until it reached an inflexion point between 1999 and 2000, at the height of the dot com boom. Since then, despite the bursting of the bubble, online sales kept growing at healthy rates. Today, e-retail has reached a penetration rate of 6% of total retail in the USA, and a much higher rate of 14% in the UK.
 
 A similar growth story happened in China, albeit at a more rapid pace. There, the starting gun was fired with the launch of Alibaba's consumer oriented platform Taobao in 2003, but online retail in China was similarly slow out of the blocks in the initial years. Then in 2007, after 4 years of incubation, the Chinese market reached its inflexion point as it started to attract an increasing number of urban shoppers which led to an unprecedented rate of growth. Since 2007, online channels have gained so much traction with suppliers and consumers in China that e-retail penetration has reached 9% in a very short time frame, surpassing the USA back in 2011, and now closing fast on the UK.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15629d5b-09e9-49fd-baba-b6735897492b.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/456527a178be1f20129c2f1d756d3231/croprotate.jpg?cropheight=600&cropwidth=883&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F15629d5b-09e9-49fd-baba-b6735897492b.jpg&x=32&y=0)
 
 By analysing such trends in e-retail penetration in India, it becomes evident that the market there reached its inflexion point around 2012\. From 2012 to 2014, after 5 years of incubation, Indian e-retail registered a phenomenal CAGR of 80%. This is a step-change compared to the relatively slower rate of 38% witnessed from 2007 to 2012\. Today, e-retail in India accounts for almost 1% of total retail value, and with the huge size of the overall market, many are wondering how fast e-retail can expand in the next stage of development.
 
@@ -79,7 +81,7 @@ Firstly, in both countries economic growth is creating an emerging class of cons
 One reason for this is that China and India are vast territories with much cultural and socio-demographic diversity. As a result, organised retailers face major challenges in establishing their brand awareness and store footprint at a national scale, often limiting their expansion plans in distant regions or cities where there is a lower density of their target customers. To illustrate this, the average national US apparel retailer operates a footprint of around 1,100 outlets while a leading apparel retailer in India only operates around 200 stores, even though the US territory is only three times as big as India's and has a much smaller population. Because of this supply and demand gap, e-retail adds a new dimension of accessibility in India and China that is simply not as critical in other international markets. For Indian and Chinese consumers, e-retail is not only a convenient way to shop anytime anywhere, but it is also a way to gain access to an offer that would be otherwise unaccessible to them through existing retail formats.
 
 The third shared characteristic between both countries is that it is smartphone users - rather than fixed line internet subscribers - that are fuelling market growth. Indeed, as the numbers of smartphones increase, e-retail penetration follows closely. We can see this trend visually by looking at how highly both metrics correlate. This demonstrates just how strong the relationship between mobile Internet penetration and e-retail penetration really is in emerging Asia.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/580752ed-b40b-4c34-85d0-a8d1beeb8f16.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a034030ad8253ed1fb912205a9167e11/croprotate.jpg?cropheight=600&cropwidth=883&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F580752ed-b40b-4c34-85d0-a8d1beeb8f16.jpg&x=32&y=0)
 
 Interestingly, both India and China appear to be on the same regression line, indicating that they are following a very similar growth trajectory, with mobile Internet driving the development of the e-retail market. Thanks to its larger and faster growing population of mobile internet users, China has so far registered stronger growth in e-retail than India. By projecting historical data, we can estimate that India is approximately 5 years behind China in terms of mobile Internet penetration. However, the country could very likely rise faster than expected, as every day a large number of Indian consumers are getting online through acquiring smartphones. At the same time, moves from telecom companies coupled with the new government's Digital India programme could help India make a leap in connectivity, securing reliable Internet access for yet more consumers across country.
 
@@ -94,7 +96,7 @@ Firstly, in both China and India the marketplace model dominates e-retail. In Ch
 What has made marketplaces so successful in India and China is their capacity to scale-up rapidly and soak the surging demand for online retail faster than any other model. They are able to do this first of all thanks to the participation of third party vendors. These vendors enable marketplaces to reduce the time and expense of scaling up by sourcing, stocking and continually expanding their own offering on the platform. The second scale advantage of marketplaces lies in the unique capabilities they have built in logistics. India and China are challenging countries for distribution due to their size, the uneven state of infrastructure development, and the limited availability of adequate third party providers. To reliably deliver items across the country, marketplaces have made substantial investments in logistics infrastructure.
 
 The second important similarity between India and China is the way in which the competitive landscape is evolving. Since the marketplace model is dominant in both countries, the e-retail game is played according to the rules of fast growth and market concentration. The imperative for marketplaces is to generate a positive feedback loop - often called the network effect - in which the greater number of visitors to their website attracts more vendors, and vice versa. With larger scale, marketplaces strengthen the network effect and leverage investments in logistics more efficiently.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c96b87c-6551-4337-b0e0-fb013ff901dd.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b21dc45802f3acfaf9537a9e1b45fca/croprotate.jpg?cropheight=600&cropwidth=883&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9c96b87c-6551-4337-b0e0-fb013ff901dd.jpg&x=32&y=0)
 
 In both countries, marketplaces started by competing through price to attract visitors, and in the process they burnt large amounts of cash to sustain their discount policies and build their logistics networks. In China, this pressure led to a shakeout phase during which smaller e-retailers started to exit the market or ended up being acquired by larger players. The wave of acquisitions in e-retail started around 2010 in China and peaked in 2012 when seven major acquisitions took place. These consolidation moves were necessary to remain competitive in an increasingly concentrated market, where two dominant players - Tmall and JD.com - are ruling over almost 80% of the B2C segment. We are starting to see a similar movement in the Indian market with players like Flipkart and Snapdeal announcing ambitious growth targets and acquiring category specific players like Myntra and Exclusively.in.
 
