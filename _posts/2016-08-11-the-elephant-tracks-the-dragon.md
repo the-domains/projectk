@@ -11,8 +11,8 @@ description: >-
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-11T07:01:53.762Z'
-dateModified: '2016-08-11T06:55:07.315Z'
+datePublished: '2016-08-11T07:02:10.537Z'
+dateModified: '2016-08-11T07:02:05.440Z'
 title: The Elephant tracks the dragon
 author: []
 via: {}
