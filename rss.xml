@@ -4,7 +4,7 @@
         <description><![CDATA[Kanvic]]></description>
         <link>https://thegrid.ai/projectk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 18:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 18:39:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The power of peripheral vision in strategic thinking]]></title>
@@ -21,6 +21,13 @@
             <pubDate>Thu, 11 Aug 2016 07:31:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How strategic thinkers expand their options]]></title>
+            <description><![CDATA[<article><h1>How strategic thinkers expand their options</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/projectk/how-strategic-thinkers-expand-their-options/index.html</link>
+            <guid isPermaLink="false">66b49f60-a155-44d0-a469-eab742b2377f</guid>
+            <pubDate>Thu, 18 Aug 2016 18:39:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How CEOs can make mental flexibility a valuable asset]]></title>
             <description><![CDATA[<article><h1>How CEOs can make mental flexibility a valuable asset</h1><p>Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f48a0f7-7514-4e2e-9220-bf52156c04f1.jpg"></article>]]></description>
             <link>https://thegrid.ai/projectk/how-ceos-can-make-mental-flexibility-a-valuable-asset/index.html</link>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/projectk/the-elephant-tracks-the-dragon/index.html</link>
             <guid isPermaLink="false">d0a47497-7fdb-41d9-9778-6b83083eae50</guid>
             <pubDate>Thu, 18 Aug 2016 18:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How strategic thinkers expand their options]]></title>
-            <description><![CDATA[<article><h1>How strategic thinkers expand their options</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/projectk/how-strategic-thinkers-expand-their-options/index.html</link>
-            <guid isPermaLink="false">66b49f60-a155-44d0-a469-eab742b2377f</guid>
-            <pubDate>Thu, 18 Aug 2016 15:48:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
