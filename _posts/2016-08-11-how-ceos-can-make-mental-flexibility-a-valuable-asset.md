@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T15:49:13.536Z'
-dateModified: '2016-08-18T15:49:10.382Z'
+datePublished: '2016-08-18T17:54:23.963Z'
+dateModified: '2016-08-18T17:54:16.030Z'
 title: How CEOs can make mental flexibility a valuable asset
 author:
   - name: ''
@@ -33,7 +33,7 @@ _CEOs must make major decisions about the future under conditions of persistent 
 
 Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.
 
-**The unpredictability of strategy's outcomes**
+# The unpredictability of strategy's outcomes
 
 The linkages between strategy and the actual outcome are weakened by three key factors: persistent macro level uncertainty, the vagaries of the market's response and the blind spots of the decision maker.
 
@@ -47,13 +47,13 @@ In a similar vein, the response of competitors to a strategic move can be equall
 
 Lastly, as human beings we develop mental models to make sense of the environment around us. These mental models help us in familiar circumstances by speeding up our response, but they can constrain our thinking when we deal with novel situations.
 
-**3 approaches to improved mental flexibility**
+# 3 approaches to improved mental flexibility
 
 Mental flexibility refers to the ability to adjust previously held beliefs or thoughts to new goals or changing circumstances. It enables leaders to adapt their strategies to a dynamic macro environment or an unanticipated market response.
 
 In a world where the best laid plans can come unstuck, mental flexibility becomes a valuable asset. Research has shown that mental flexibility is not simply a naturally endowed gift, it is a skill that can be improved by using a number of tools and techniques. I will outline three of the most effective approaches CEOs can use for improved mental flexibility.
 
-**Learn in a double loop**
+## Learn in a double loop 
 
 Professor Chris Argyris - who was Professor Emeritus at Harvard Business School - first coined the terms single loop and double loop learning. While single loop learning corrects the problems at the surface by accepting the current assumptions, double loop learning challenges the fundamental mode of thinking by following a process of reflection.
 
@@ -61,7 +61,7 @@ Take the example of a manufacturing company which had hired a new Chief Marketin
 
 A week after the conference was concluded, the new CMO tendered his resignation. The company's response to this event was to decide that new hires shouldn't participate in these type of meetings to avoid the risk of 'culture shock'. However, had they applied double loop learning, they would have instead explored why their style of meeting had such an impact on newcomers, and whether they needed to change their ways to attract a new type of manager.
 
-**Play real-time strategy games**
+## Play real-time strategy games
 
 Real-time strategy games have been studied for many years for their effect on the brain's ability to learn new behaviours and form new memories. Various studies show that they create cognitive and perceptual changes in those who transition from non-gamers to gamers.
 
@@ -69,7 +69,7 @@ In a recent study, researchers from University College London and University of 
 
 CEOs can also bring improvements in mental flexibility for themselves and their top team by engaging in simulations (war gaming) of the possible outcomes to their major strategic decisions. This helps to throw up unthought of responses from competitors, customers and market regulators, as well as revealing new possibilities for action. Through the process leaders become mentally prepared for faster and nimbler responses when they come face-to-face with real-world scenarios.
 
-**Practice meditation**
+## Practice meditation
 
 Recently researchers from the University of British Columbia and Chemnitz University of Technology reviewed and analysed 123 brain morphology differences from 21 neuroimaging studies examining over 300 meditation practitioners. Their study found that meditation had a consistent effect on all eight brain regions.
 
