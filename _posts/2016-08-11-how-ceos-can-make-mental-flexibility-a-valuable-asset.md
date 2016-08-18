@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T18:14:59.508Z'
+datePublished: '2016-08-18T18:56:46.613Z'
 sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
 inFeed: true
 authors: []
@@ -9,17 +9,14 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-18T18:14:58.223Z'
+dateModified: '2016-08-18T18:56:45.654Z'
 title: How CEOs can make mental flexibility a valuable asset
 publisher: {}
 description: >-
-  Standing at the helm of their organisation, CEOs make the major decisions to
-  steer the business in the direction of their strategic intent. These strategic
-  decisions are by their nature complex, uncertain and for the long term,
-  placing great demands on the capacity of the human mind to make judgments
-  about the future. While CEOs can improve their chances of success by avoiding
-  many of the common traps in decision making, the possibility always remains
-  that their intended strategy may not produce the intended results.
+  CEOs must make major decisions about the future under conditions of persistent
+  uncertainty. Therefore having the mental flexibility to adjust previously held
+  beliefs to new goals or circumstances is paramount. This article outlines
+  three approaches for improved mental flexibility.
 inLanguage: null
 inNav: true
 starred: false
@@ -30,9 +27,9 @@ _type: Article
 # How CEOs can make mental flexibility a valuable asset
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f48a0f7-7514-4e2e-9220-bf52156c04f1.jpg)
 
-Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.
-
 _CEOs must make major decisions about the future under conditions of persistent uncertainty. Therefore having the mental flexibility to adjust previously held beliefs to new goals or circumstances is paramount. This article outlines three approaches for improved mental flexibility._
+
+Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.
 
 # The unpredictability of strategy's outcomes
 
