@@ -33,14 +33,14 @@ navigation:
   - name: The Elephant tracks the dragon
     id: d0a47497-7fdb-41d9-9778-6b83083eae50
     type: content
-  - name: How CEOs can make mental flexibility a valuable asset
-    id: c9b46141-75ee-40f3-a50a-6f5c2930ad5b
-    type: content
   - name: How strategic thinkers expand their options
     id: 66b49f60-a155-44d0-a469-eab742b2377f
     type: content
   - name: The power of peripheral vision in strategic thinking
     id: 9389f5c1-8944-479f-ae83-a5698f10fbc0
+    type: content
+  - name: How CEOs can make mental flexibility a valuable asset
+    id: c9b46141-75ee-40f3-a50a-6f5c2930ad5b
     type: content
 favicon: null
 title: Kanvic
