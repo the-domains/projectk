@@ -4,13 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: >-
-  CEOs must make major decisions about the future under conditions of persistent
-  uncertainty. Therefore having the mental flexibility to adjust previously held
-  beliefs to new goals or circumstances is paramount. This article outlines
-  three approaches for improved mental flexibility.
-datePublished: '2016-08-18T14:08:33.281Z'
-dateModified: '2016-08-18T09:44:33.626Z'
+description: ''
+datePublished: '2016-08-18T15:49:13.536Z'
+dateModified: '2016-08-18T15:49:10.382Z'
 title: How CEOs can make mental flexibility a valuable asset
 author:
   - name: ''
@@ -19,9 +15,9 @@ via: {}
 sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: how-ceos-can-make-mental-flexibility-a-valuable-asset/index.html
@@ -30,6 +26,8 @@ _type: Article
 ---
 # How CEOs can make mental flexibility a valuable asset
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f48a0f7-7514-4e2e-9220-bf52156c04f1.jpg)
+
+__
 
 _CEOs must make major decisions about the future under conditions of persistent uncertainty. Therefore having the mental flexibility to adjust previously held beliefs to new goals or circumstances is paramount. This article outlines three approaches for improved mental flexibility._
 
