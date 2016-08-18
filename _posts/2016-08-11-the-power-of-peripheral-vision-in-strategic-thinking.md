@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T17:57:59.369Z'
-dateModified: '2016-08-18T17:57:08.992Z'
+datePublished: '2016-08-18T18:40:02.350Z'
+dateModified: '2016-08-18T17:58:02.565Z'
 title: The power of peripheral vision in strategic thinking
 author:
   - name: ''
@@ -49,7 +49,7 @@ Secondly, strategic thinkers don't just rely on their individual powers of obser
 
 Finally, they tap the power of the internet and new technologies. We increasingly find that leaders have become adept at using social media to stay connected and be informed from a wide variety of sources. This ensures that they are always 'in touch' with sources of new information.
 
-## **Spotting weak signals**
+# Spotting weak signals
 
 Very often the signals picked up on the periphery may at first be weak, making it difficult to distinguish important indicators of change from other background interference. To distinguish important signals from the background noise that their systems pick up, effective strategic thinkers look for multiple trends and a variety of sources to see patterns which can be masked by looking at individual signals in isolation.
 
@@ -61,7 +61,7 @@ To mitigate this risk, effective strategic thinkers bring a diversity of mindset
 
 could play out and impact the business. They also ensure that communication barriers between different departments are lowered, as for example sales may possess the latest information about emerging competitive threats, while R&D teams may be most aware of emerging technological shifts that could upend the industry.
 
-## **Responding proactively**
+# Responding proactively
 
 Even where signals are picked up and their significance for the business is correctly identified, inertia and routine thinking can be an impediment to taking timely action.
 
