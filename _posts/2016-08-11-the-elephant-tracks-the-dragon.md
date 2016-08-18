@@ -11,8 +11,8 @@ description: >-
   study of the evolution of e-retail globally finds that China is the most
   appropriate benchmark for CEOs looking to anticipate future changes in Indian
   e-retail.
-datePublished: '2016-08-18T15:49:30.516Z'
-dateModified: '2016-08-18T15:48:51.410Z'
+datePublished: '2016-08-18T18:05:02.525Z'
+dateModified: '2016-08-18T18:03:19.966Z'
 title: The Elephant tracks the dragon
 author:
   - name: ''
@@ -55,7 +55,7 @@ In this context, CEOs looking at India are asking a number of questions about th
 
 To find answers to these pressing questions, we conducted an in-depth study of how e-retail has developed across the globe to draw insights about the future prospects for Indian e-retail. We examined the experiences of key developed markets like the UK and the USA, as well as China. As our findings increasingly indicated that China had the most compelling similarities with the Indian scenario, our focus gravitated to that market and the insights it offered.
 
-## **What s****tage of development has e-retail reached in India?**
+# 1\. What stage of development has e-retail reached in India?
 
 The first major insight from our analysis was that India has reached an inflexion point, marking the start of a much faster phase of growth in online retail. Like most disruptive business models, wherever e-retail has emerged around the world it has developed in three successive phases:
 
@@ -72,7 +72,7 @@ A similar growth story happened in China, albeit at a more rapid pace. There, th
 
 By analysing such trends in e-retail penetration in India, it becomes evident that the market there reached its inflexion point around 2012\. From 2012 to 2014, after 5 years of incubation, Indian e-retail registered a phenomenal CAGR of 80%. This is a step-change compared to the relatively slower rate of 38% witnessed from 2007 to 2012\. Today, e-retail in India accounts for almost 1% of total retail value, and with the huge size of the overall market, many are wondering how fast e-retail can expand in the next stage of development.
 
-## **How fast will e-retail penetration increase in India?**
+# 2\. How fast will e-retail penetration increase in India?
 
 There are compelling reasons to believe that Indian e-retail will boom with as much force as it has in China. Indeed, our analysis shows that India shares a number of fundamental characteristics with China that favour the rapid rise of e-retail.
 
@@ -85,7 +85,7 @@ The third shared characteristic between both countries is that it is smartphone 
 
 Interestingly, both India and China appear to be on the same regression line, indicating that they are following a very similar growth trajectory, with mobile Internet driving the development of the e-retail market. Thanks to its larger and faster growing population of mobile internet users, China has so far registered stronger growth in e-retail than India. By projecting historical data, we can estimate that India is approximately 5 years behind China in terms of mobile Internet penetration. However, the country could very likely rise faster than expected, as every day a large number of Indian consumers are getting online through acquiring smartphones. At the same time, moves from telecom companies coupled with the new government's Digital India programme could help India make a leap in connectivity, securing reliable Internet access for yet more consumers across country.
 
-## **What will India's future retail landscape look like?**
+# 3\. What will India's future retail landscape look like?
 
 India is not only following the path of China on the demand side. Our research shows that there are also major similarities on the supply side that will shape India's future retail landscape, with important implications for those developing strategy. Most important among these will be the continued dominance of marketplaces, the increasing role of partnerships and the move to Online to Offline integration.
 
