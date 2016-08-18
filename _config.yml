@@ -26,10 +26,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: How CEOs can make mental flexibility a valuable asset
-    id: c9b46141-75ee-40f3-a50a-6f5c2930ad5b
-    type: content
 favicon: null
 title: Kanvic
 purpose: []
