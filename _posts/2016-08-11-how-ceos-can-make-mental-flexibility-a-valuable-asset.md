@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T18:10:20.146Z'
+datePublished: '2016-08-18T18:14:59.508Z'
 sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-18T18:10:19.163Z'
+dateModified: '2016-08-18T18:14:58.223Z'
 title: How CEOs can make mental flexibility a valuable asset
 publisher: {}
 description: >-
