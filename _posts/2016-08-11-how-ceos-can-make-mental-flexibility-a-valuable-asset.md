@@ -1,24 +1,27 @@
 ---
+datePublished: '2016-08-18T18:10:20.146Z'
+sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-18T17:54:23.963Z'
-dateModified: '2016-08-18T17:54:16.030Z'
-title: How CEOs can make mental flexibility a valuable asset
 author:
   - name: ''
     url: ''
 via: {}
-sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-18T18:10:19.163Z'
+title: How CEOs can make mental flexibility a valuable asset
+publisher: {}
+description: >-
+  Standing at the helm of their organisation, CEOs make the major decisions to
+  steer the business in the direction of their strategic intent. These strategic
+  decisions are by their nature complex, uncertain and for the long term,
+  placing great demands on the capacity of the human mind to make judgments
+  about the future. While CEOs can improve their chances of success by avoiding
+  many of the common traps in decision making, the possibility always remains
+  that their intended strategy may not produce the intended results.
+inLanguage: null
+inNav: true
 starred: false
 url: how-ceos-can-make-mental-flexibility-a-valuable-asset/index.html
 _type: Article
@@ -27,11 +30,9 @@ _type: Article
 # How CEOs can make mental flexibility a valuable asset
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f48a0f7-7514-4e2e-9220-bf52156c04f1.jpg)
 
-__
+Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.
 
 _CEOs must make major decisions about the future under conditions of persistent uncertainty. Therefore having the mental flexibility to adjust previously held beliefs to new goals or circumstances is paramount. This article outlines three approaches for improved mental flexibility._
-
-Standing at the helm of their organisation, CEOs make the major decisions to steer the business in the direction of their strategic intent. These strategic decisions are by their nature complex, uncertain and for the long term, placing great demands on the capacity of the human mind to make judgments about the future. While CEOs can improve their chances of success by avoiding many of the common traps in decision making, the possibility always remains that their intended strategy may not produce the intended results.
 
 # The unpredictability of strategy's outcomes
 
@@ -53,7 +54,7 @@ Mental flexibility refers to the ability to adjust previously held beliefs or th
 
 In a world where the best laid plans can come unstuck, mental flexibility becomes a valuable asset. Research has shown that mental flexibility is not simply a naturally endowed gift, it is a skill that can be improved by using a number of tools and techniques. I will outline three of the most effective approaches CEOs can use for improved mental flexibility.
 
-## Learn in a double loop 
+## Learn in a double loop
 
 Professor Chris Argyris - who was Professor Emeritus at Harvard Business School - first coined the terms single loop and double loop learning. While single loop learning corrects the problems at the surface by accepting the current assumptions, double loop learning challenges the fundamental mode of thinking by following a process of reflection.
 
