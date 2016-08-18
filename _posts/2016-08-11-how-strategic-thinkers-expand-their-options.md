@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T15:48:44.860Z'
-dateModified: '2016-08-18T15:48:42.779Z'
+datePublished: '2016-08-18T18:39:39.686Z'
+dateModified: '2016-08-18T17:55:34.180Z'
 title: How strategic thinkers expand their options
 author:
   - name: ''
@@ -26,6 +26,8 @@ _type: Article
 ---
 # How strategic thinkers expand their options
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg)
+
+__
 
 __
 
