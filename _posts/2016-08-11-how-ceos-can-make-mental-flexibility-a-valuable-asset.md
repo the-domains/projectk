@@ -9,8 +9,8 @@ description: >-
   uncertainty. Therefore having the mental flexibility to adjust previously held
   beliefs to new goals or circumstances is paramount. This article outlines
   three approaches for improved mental flexibility.
-datePublished: '2016-08-11T07:32:17.578Z'
-dateModified: '2016-08-11T07:29:27.790Z'
+datePublished: '2016-08-18T09:44:32.864Z'
+dateModified: '2016-08-11T08:01:34.458Z'
 title: How CEOs can make mental flexibility a valuable asset
 author:
   - name: ''
@@ -19,9 +19,9 @@ via: {}
 sourcePath: _posts/2016-08-11-how-ceos-can-make-mental-flexibility-a-valuable-asset.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: how-ceos-can-make-mental-flexibility-a-valuable-asset/index.html
