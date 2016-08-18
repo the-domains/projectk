@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-12T05:38:57.376Z'
-dateModified: '2016-08-12T05:38:56.330Z'
+datePublished: '2016-08-18T17:57:59.369Z'
+dateModified: '2016-08-18T17:57:08.992Z'
 title: The power of peripheral vision in strategic thinking
 author:
   - name: ''
@@ -39,9 +39,9 @@ Led by its founder, an electrical engineer, the philosophy of Blackberry was foc
 
 To remove these blinkers and realise the power of peripheral vision, effective strategic thinkers follow three key steps - they actively scan the periphery, spot the weak signals which others may miss and respond proactively to market trends.
 
-## **Scanning the periphery**
-
 Strategic thinkers continually and actively scan the periphery to identify threats and opportunities for their organisation. These thinkers are acutely aware of what is going on outside their business, and even outside their industry.
+
+# Scanning the periphery
 
 First, they tune in their antenna to detect and capture information emerging from the periphery. We have found that effective strategic thinkers are highly diligent about building their own network inside and outside the organisation. This includes leveraging the power of informal networks to tap into different sources of knowledge that others may not have access to. These informal sources have the added advantage of being less constrained by organisational hierarchies that may censor the information that flows to the leadership due to factors like internal politics and ego.
 
