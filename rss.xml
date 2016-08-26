@@ -4,7 +4,7 @@
         <description><![CDATA[Kanvic]]></description>
         <link>https://thegrid.ai/projectk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 07:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 08:02:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The power of peripheral vision in strategic thinking]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/projectk/the-power-of-peripheral-vision-in-strategic-thinking/index.html</link>
             <guid isPermaLink="false">9389f5c1-8944-479f-ae83-a5698f10fbc0</guid>
             <pubDate>Thu, 18 Aug 2016 19:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How strategic thinkers expand their options]]></title>
+            <description><![CDATA[<article><h1>How strategic thinkers expand their options</h1><p>Increasing the number of options when taking a decision is proven to improve the success rate. Managers can expand their options and make better strategic decisions by using three innovative techniques.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/projectk/how-strategic-thinkers-expand-their-options/index.html</link>
+            <guid isPermaLink="false">66b49f60-a155-44d0-a469-eab742b2377f</guid>
+            <pubDate>Fri, 26 Aug 2016 08:01:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Being CEO 3.0]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/projectk/the-elephant-tracks-the-dragon/index.html</link>
             <guid isPermaLink="false">d0a47497-7fdb-41d9-9778-6b83083eae50</guid>
             <pubDate>Thu, 18 Aug 2016 19:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How strategic thinkers expand their options]]></title>
-            <description><![CDATA[<article><h1>How strategic thinkers expand their options</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/projectk/how-strategic-thinkers-expand-their-options/index.html</link>
-            <guid isPermaLink="false">66b49f60-a155-44d0-a469-eab742b2377f</guid>
-            <pubDate>Thu, 18 Aug 2016 19:08:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
