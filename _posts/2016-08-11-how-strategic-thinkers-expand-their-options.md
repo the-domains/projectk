@@ -1,20 +1,23 @@
 ---
+datePublished: '2016-08-26T08:01:57.943Z'
+sourcePath: _posts/2016-08-11-how-strategic-thinkers-expand-their-options.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-18T19:08:34.797Z'
-dateModified: '2016-08-18T19:08:33.248Z'
-title: How strategic thinkers expand their options
 author:
   - name: ''
     url: ''
 via: {}
-sourcePath: _posts/2016-08-11-how-strategic-thinkers-expand-their-options.md
-authors: []
+dateModified: '2016-08-26T08:01:56.770Z'
+title: How strategic thinkers expand their options
 publisher: {}
+description: >-
+  Increasing the number of options when taking a decision is proven to improve
+  the success rate. Managers can expand their options and make better strategic
+  decisions by using three innovative techniques.
+inLanguage: null
+inNav: true
 starred: false
 url: how-strategic-thinkers-expand-their-options/index.html
 _type: Article
@@ -22,10 +25,6 @@ _type: Article
 ---
 # How strategic thinkers expand their options
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87cfb50-c88f-487b-a649-e83341e821e8.jpg)
-
-__
-
-__
 
 _Increasing the number of options when taking a decision is proven to improve the success rate. Managers can expand their options and make better strategic decisions by using three innovative techniques._
 
@@ -35,7 +34,7 @@ In practice, however, managers do not seem to be using multiple options while ma
 
 Nutt found that managers used multiple options in only 20 percent of their decisions. This is in spite of the fact that when multiple options were used, success rates jumped from 56 percent to 70 percent.
 
-Strategic thinkers understand this advantage and are the masters of creating and multiplying their options. They use a number of ways to do this, three of which have been outlined here: 
+Strategic thinkers understand this advantage and are the masters of creating and multiplying their options. They use a number of ways to do this, three of which have been outlined here:
 
 # Shift the frame of reference
 
