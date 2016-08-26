@@ -1,20 +1,23 @@
 ---
+datePublished: '2016-08-26T10:28:26.273Z'
+sourcePath: _posts/2016-08-11-the-power-of-peripheral-vision-in-strategic-thinking.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-18T19:08:49.914Z'
-dateModified: '2016-08-18T19:08:48.551Z'
-title: The power of peripheral vision in strategic thinking
 author:
   - name: ''
     url: ''
 via: {}
-sourcePath: _posts/2016-08-11-the-power-of-peripheral-vision-in-strategic-thinking.md
-authors: []
+dateModified: '2016-08-26T10:28:25.016Z'
+title: The power of peripheral vision in strategic thinking
 publisher: {}
+description: >-
+  Peripheral vision is the ability to detect market trends and weak signals
+  beyond the current boundaries. In a rapidly changing business environment it
+  becomes a critical asset for strategic thinkers.
+inLanguage: null
+inNav: true
 starred: true
 url: the-power-of-peripheral-vision-in-strategic-thinking/index.html
 _type: Article
